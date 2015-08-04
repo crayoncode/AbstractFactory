@@ -1,0 +1,6 @@
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
+F:\visualstudio2012\Projects\AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
